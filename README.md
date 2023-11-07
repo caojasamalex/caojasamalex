@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @caojasamalex
-- 👀 I’m interested in becoming Software Engineer at FAANG
 - 🌱 I’m Software Engineering student
 - 📫 How to reach me: adjokic24@gmail.com
 
