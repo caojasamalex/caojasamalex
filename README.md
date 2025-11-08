@@ -47,7 +47,7 @@ I take pride in writing clean, maintainable code and applying proven **design pa
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/djokic-aleksandar/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/djokic-aleksandar/)
 - 🧑‍💻 [GitHub](https://github.com/caojasamalex)
 - ✉️ `adjokic24@gmail.com`
 
