@@ -42,7 +42,7 @@ I take pride in writing clean, maintainable code and applying proven **design pa
 ### 🌱 Currently Learning
 - Advanced **Spring Cloud Microservices**
 - **System Design** and distributed architecture
-- Modern **Angular** development for full-stack integration
+- Modern **React** development for full-stack integration
 
 ---
 
