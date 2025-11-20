@@ -23,7 +23,7 @@ I take pride in writing clean, maintainable code and applying proven **design pa
 - **Java (Core, OOP, Collections, Concurrency)**
 - **C / C++**
 - **Python**
-- Basic knowledge of **HTML**, **CSS**, **JavaScript**, and **Angular**
+- Basic knowledge of **HTML**, **CSS**, **JavaScript**, and **React**
 
 #### 🧰 Frameworks & Tools
 - **Spring Boot**, **Spring Data JPA**, **Spring Security**, **Spring Cloud**
