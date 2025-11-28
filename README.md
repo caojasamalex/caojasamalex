@@ -1,9 +1,11 @@
-# 👋 Hi, I'm Aleksandar Djokic
+<h1 align="center"><b>👋 Hi, I'm Aleksandar Djokic</b></h1>
+<h3 align="center">Software Engineer | Java Backend Engineer | Spring Ecosystem</h3>
 
-🎓 **B.Sc. in Electrical and Computer Engineering**  
-💻 **Master’s Student & Software Engineer** passionate about designing scalable, reliable, and elegant systems.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E8C6&center=true&vCenter=true&width=600&height=50&lines=B.Sc.+Electrical+%26+Computer+Engineering;Master's+Student;Java+%7C+Spring+Boot+%7C+System+Design" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,maven,gradle,py,cpp" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caojasamalex&theme=tokyonight&hide_border=true" width="50%"/>
+</p>
 
 ### 🚀 About Me
 I’m a software engineer with a strong technical foundation and a deep interest in software architecture and clean coding practices.  
@@ -46,10 +48,23 @@ I take pride in writing clean, maintainable code and applying proven **design pa
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/djokic-aleksandar/)
-- 🧑‍💻 [GitHub](https://github.com/caojasamalex)
-- ✉️ `adjokic24@gmail.com`
+## 🏗️ Projects I'm Working On
+
+- 🏁 **Talent Acquisition Platform**
+- 🍽️ **Canteen Reservation System**
+- 📦 **FineForms - Dynamic Form Builder**
+
+> *More projects coming as I continue refining and building my engineering stack.*
+
+---
+
+<h1 align="center"><b>📫 Connect With Me</b></h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/djokic-aleksandar/"><img src="https://img.shields.io/badge/LinkedIn-Aleksandar Djokic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/caojasamalex"><img src="https://img.shields.io/badge/GitHub-caojasamalex-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:adjokic24@gmail.com"><img src="https://img.shields.io/badge/Email-adjokic24%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
