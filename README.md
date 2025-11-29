@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E8C6&center=true&vCenter=true&width=600&height=50&lines=B.Sc.+Electrical+%26+Computer+Engineering;Master's+Student;Java+%7C+Spring+Boot+%7C+System+Design" />
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,linux,maven,gradle,py,c,cpp" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caojasamalex&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 ### 🚀 About Me
